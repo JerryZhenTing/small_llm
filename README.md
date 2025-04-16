@@ -1,4 +1,4 @@
-# small
+# Academic LLM Assistant
 
 A lightweight, locally-deployed specialized language model for academic tasks such as grading assignments and analyzing research papers.
 
@@ -27,8 +27,8 @@ This tool is designed for educators, researchers, and students who need academic
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/academic-llm-assistant.git
-cd academic-llm-assistant
+git clone https://github.com/JerryZhenTing/small_llm.git
+cd small_llm
 
 # Create and activate virtual environment
 sudo apt update
@@ -152,7 +152,7 @@ This will start the Gradio interface, accessible in your web browser at the URL 
 ## 📁 Project Structure
 
 ```
-academic-llm-assistant/
+small_llm/
 ├── academic_assistant.py     # Main application code
 ├── models/                   # Directory for model files
 │   └── tinyllama-1.1b-chat-v1.0.Q4_0.gguf
